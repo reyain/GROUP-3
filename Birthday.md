@@ -1,9 +1,9 @@
 # ABOUT
 
-**FULLNAMe**
+**FULLNAME**
 - Jericho C. Restor
 - Rose Ann C. Eval
 
-**EMAIL**
-- jerichorestor@gmail.com
-- evalroseann@gmail.com
+**BIRTHDAY**
+- January 10, 2005
+- November 12, 2005

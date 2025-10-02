@@ -1,6 +1,6 @@
 # ABOUT
 
-**FULLNAMe**
+**FULLNAME**
 - Jericho C. Restor
 - Rose Ann C. Eval
 
