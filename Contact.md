@@ -1,4 +1,4 @@
-# ABOUT
+# CONTACT
 
 **FULLNAME**
 - Jericho C. Restor
