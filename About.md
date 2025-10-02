@@ -1,5 +1,9 @@
 # ABOUT
 
-1. Fullname
-    - Jericho C. Restor
-    
+`Fullname`
+- Jericho C. Restor
+- Rose Ann C. Eval
+
+`Email`
+- jerichorestor@gmail.com
+- evalroseann@gmail.com
