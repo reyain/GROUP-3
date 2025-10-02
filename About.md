@@ -1,9 +1,9 @@
 # ABOUT
 
-`Fullname`
+**FULLNAMe**
 - Jericho C. Restor
 - Rose Ann C. Eval
 
-`Email`
+**EMAIL**
 - jerichorestor@gmail.com
 - evalroseann@gmail.com
